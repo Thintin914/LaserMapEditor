@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de312dbda90d8244ab60569e423a9dce, type: 3}
+  m_Name: LaserColorList
+  m_EditorClassIdentifier: 
+  laserColorList:
+  - laserType: 1
+    startColor: {r: 0.9622642, g: 0.9622642, b: 0.9622642, a: 1}
+    endColor: {r: 0.9966588, g: 0.9198113, b: 1, a: 1}
+    material: {fileID: 2100000, guid: d1b7cb78cec76fc43b742ae5325a47bd, type: 2}
+  - laserType: 2
+    startColor: {r: 1, g: 0, b: 0.1428833, a: 1}
+    endColor: {r: 1, g: 0.14010857, b: 0, a: 1}
+    material: {fileID: 2100000, guid: f430d91c76d85c547b01c74edb9fb4f5, type: 2}
+  - laserType: 3
+    startColor: {r: 1, g: 0.32661325, b: 0, a: 1}
+    endColor: {r: 1, g: 0.490047, b: 0, a: 1}
+    material: {fileID: 2100000, guid: 7d847f9b111009a41b6ebcce3e386f4f, type: 2}
+  - laserType: 4
+    startColor: {r: 1, g: 0.69540036, b: 0, a: 1}
+    endColor: {r: 1, g: 0.808957, b: 0, a: 0}
+    material: {fileID: 2100000, guid: 2f6caee85a814294f9da1ef12dc1bfb9, type: 2}
+  - laserType: 5
+    startColor: {r: 0.58017635, g: 1, b: 0, a: 1}
+    endColor: {r: 0.38610947, g: 1, b: 0, a: 1}
+    material: {fileID: 2100000, guid: 40441b7bdd03bea4fa897977c240e955, type: 2}
+  - laserType: 6
+    startColor: {r: 0, g: 1, b: 0.45470548, a: 1}
+    endColor: {r: 0, g: 1, b: 0.8167536, a: 1}
+    material: {fileID: 2100000, guid: 20e5dfef50f93a642ba12acbddcbef79, type: 2}
+  - laserType: 7
+    startColor: {r: 0, g: 0.58771515, b: 1, a: 1}
+    endColor: {r: 0, g: 0.31992722, b: 1, a: 1}
+    material: {fileID: 2100000, guid: 07f16141dba603b4597e73bcae7a48d1, type: 2}
+  - laserType: 8
+    startColor: {r: 0.5219846, g: 0, b: 1, a: 1}
+    endColor: {r: 0.7941685, g: 0, b: 1, a: 1}
+    material: {fileID: 2100000, guid: 75fd69e3f3c834a43a5691b484c3d10d, type: 2}
+  - laserType: 0
+    startColor: {r: 1, g: 0.76964605, b: 0, a: 1}
+    endColor: {r: 0, g: 0.38099766, b: 1, a: 1}
+    material: {fileID: 2100000, guid: d1b7cb78cec76fc43b742ae5325a47bd, type: 2}
+  - laserType: 9
+    startColor: {r: 0.20754719, g: 0.19677822, b: 0.20494759, a: 1}
+    endColor: {r: 0.13134706, g: 0.0076094666, b: 0.1792453, a: 1}
+    material: {fileID: 2100000, guid: c2ce1441e223c3e43bbe6e7fc0ff678b, type: 2}
